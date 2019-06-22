@@ -4,6 +4,7 @@ public class Nerc {
 	private int id;
 	private String value;
 
+
 	public Nerc(int id, String value) {
 		this.id = id;
 		this.value = value;
